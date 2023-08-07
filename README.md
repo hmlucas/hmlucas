@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hmlucas
 - 👀 I’m interested in exploring new topics
-- 🌱 I’m currently learning jsx
+- 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on ... (not sure yet)
 - 📫 How to reach me: hannah.margaret.lucas@gmail.com
 
